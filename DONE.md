@@ -1,1 +1,0 @@
-Uppsala kartdata projekt.
