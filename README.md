@@ -1,0 +1,1 @@
+Uppsala kommuns kartdata för test i OsmAnd.
