@@ -1,1 +1,0 @@
-Kartdata hämtas av GitHub Actions.
