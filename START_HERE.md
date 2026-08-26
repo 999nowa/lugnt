@@ -1,1 +1,0 @@
-Kör workflowet Hämta Uppsala kartdata under Actions för att hämta vägnätet som GeoJSON.
